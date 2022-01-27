@@ -1,0 +1,12 @@
+print("2.dereceden denklemlerde kök bulma programı")
+print("Lutfen ax^2 + bx + c şeklindeki denklemi giriniz")
+a = int(input("a degerini giriniz: "))
+b = int(input("b degerini giriniz: "))
+c = int(input("c degerini giriniz: "))
+
+delta = b ** 2 - 4 * a * c
+birincikok = (-b - delta ** 0.5) / (2*a)
+ikincikok = (-b + delta ** 0.5) / (2*a)
+
+print("Birinci kök: {}\nİkinci kök: {}\n".format(birincikok,ikincikok))
+

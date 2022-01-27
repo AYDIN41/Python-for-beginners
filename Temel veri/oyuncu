@@ -1,0 +1,8 @@
+print("Oyuncu Kaydetme Programı")
+ad = input("lutfen oyuncunun ismini giriniz: ")
+soyad = input("lutfen oyuncunun soyismini giriniz: ")
+takım = input("lutfen oyuncunun takimini giriniz: ")
+
+#bilgiler = [ad,soyad,takım]
+#print("Oyuncunun ismi: {}\nOyuncunun soyismi: {}\nTakim ismi: {}\n".format(bilgiler[0],bilgiler[1],bilgiler[2]))
+print("Oyuncunun ismi: {}\nOyuncunun soyismi: {}\nTakim ismi: {}\n".format(ad,soyad,takım))
