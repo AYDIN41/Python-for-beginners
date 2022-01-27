@@ -1,0 +1,21 @@
+{% extends "layout2.html" %}
+
+{% block body %}
+
+{% if account %}
+
+<h5>Profil</h5>
+<hr>
+İsim: {{account.name}}
+<hr>
+Dogum Tarih: {{account.birth_date}}
+<hr>
+{{account.characterr|safe}}
+{% else %}
+<div class = "alert alert-danger">Profil bulunmuyor...:(</div>
+{% endif %}
+
+
+
+
+{% endblock body %}

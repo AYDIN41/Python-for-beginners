@@ -1,0 +1,15 @@
+{% extends "layout2.html" %}
+
+{% block body %}
+<div class = "jumbotron text-center">
+    <h3>Welcome to B-Way Product Page </h3>
+    <p> You can make any process what You want </p>
+</div>
+
+<ul>
+    {% for article in articles  %}
+    <li> Article ID: {{article.id}} Article Title: {{article.title}} Article Title: {{article.content}}  </li>
+    {% endfor %}
+</ul>
+
+{% endblock body %}

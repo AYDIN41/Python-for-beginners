@@ -1,0 +1,16 @@
+{% extends "layout2.html" %}
+{% block body %}
+{% from "includes/formhelpers.html" import render_field %}
+<h3>Bilgilerinizi Giriniz</h3>
+<hr>
+<form action = "/accountinto/{{form.id}}" method = "post">
+    {{ render_field(form.name,class = "form-control") }}
+    {{ render_field(form.birthdate,class = "form-control") }}
+    {{ render_field(form.character,class = "form-control") }}
+
+    <button type="submit" class="btn btn-light">Profil Oluştur</button>
+    
+
+</ul>
+</form>
+{% endblock body %}
