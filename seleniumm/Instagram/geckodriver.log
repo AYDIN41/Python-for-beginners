@@ -1,0 +1,336 @@
+1623176043668	geckodriver	INFO	Listening on 127.0.0.1:49593
+1623176046747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile3Zpccz"
+1623176047229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile3Zpccz\\search.json.mozlz4", (void 0)))
+1623176050464	Marionette	INFO	Listening on port 55904
+1623176050948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623176072190	Marionette	INFO	Stopped listening on port 55904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623176121666	geckodriver	INFO	Listening on 127.0.0.1:60553
+1623176124715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileVq8TbM"
+1623176125195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileVq8TbM\\search.json.mozlz4", (void 0)))
+1623176128426	Marionette	INFO	Listening on port 57078
+1623176128940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623176148416	Marionette	INFO	Stopped listening on port 57078
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623176375505	geckodriver	INFO	Listening on 127.0.0.1:55224
+1623176378588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile3OK5oO"
+1623176379058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile3OK5oO\\search.json.mozlz4", (void 0)))
+1623176382192	Marionette	INFO	Listening on port 55232
+1623176382334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623176413990	Marionette	INFO	Stopped listening on port 55232
+[Parent 12456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623176591133	geckodriver	INFO	Listening on 127.0.0.1:56221
+1623176594218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileh2Dyq7"
+1623176594684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileh2Dyq7\\search.json.mozlz4", (void 0)))
+1623176597956	Marionette	INFO	Listening on port 56229
+1623176598437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623176616753	Marionette	INFO	Stopped listening on port 56229
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=e92c4d1c7670753952ebbdf270039323, line 164: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623176624167	geckodriver	INFO	Listening on 127.0.0.1:56303
+1623176627198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileJAIosU"
+1623176627659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileJAIosU\\search.json.mozlz4", (void 0)))
+1623176630619	Marionette	INFO	Listening on port 56311
+1623176630898	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623176669355	Marionette	INFO	Stopped listening on port 56311
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623177073762	geckodriver	INFO	Listening on 127.0.0.1:63358
+1623177076860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileznvz5K"
+1623177077313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileznvz5K\\search.json.mozlz4", (void 0)))
+1623177080564	Marionette	INFO	Listening on port 54059
+1623177081063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623177117759	Marionette	INFO	Stopped listening on port 54059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623177262218	geckodriver	INFO	Listening on 127.0.0.1:64668
+1623177265303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilenrICEu"
+1623177265772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilenrICEu\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623177279335	geckodriver	INFO	Listening on 127.0.0.1:56510
+1623177282389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileqzTofQ"
+1623177282842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileqzTofQ\\search.json.mozlz4", (void 0)))
+1623177285903	Marionette	INFO	Listening on port 63877
+1623177286120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623177427871	Marionette	INFO	Stopped listening on port 63877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileb9gyF4"
+1623177358942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileb9gyF4\\search.json.mozlz4", (void 0)))
+1623177361791	Marionette	INFO	Listening on port 49841
+1623177362274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623177412972	Marionette	INFO	Stopped listening on port 49841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623177444346	geckodriver	INFO	Listening on 127.0.0.1:50807
+1623177447427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileirXYqL"
+1623177447925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileirXYqL\\search.json.mozlz4", (void 0)))
+1623177451041	Marionette	INFO	Listening on port 49527
+1623177451144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623177548750	Marionette	INFO	Stopped listening on port 49527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623177602032	geckodriver	INFO	Listening on 127.0.0.1:61208
+1623177605096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileN8dVsU"
+1623177605561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileN8dVsU\\search.json.mozlz4", (void 0)))
+1623177608666	Marionette	INFO	Listening on port 62150
+1623177608834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623177669198	Marionette	INFO	Stopped listening on port 62150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623177871604	geckodriver	INFO	Listening on 127.0.0.1:51700
+1623177874691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile9VhO0D"
+1623177875147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile9VhO0D\\search.json.mozlz4", (void 0)))
+1623177878207	Marionette	INFO	Listening on port 56375
+1623177878387	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1623178407063	Marionette	INFO	Stopped listening on port 56375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623178409603	geckodriver	INFO	Listening on 127.0.0.1:54475
+1623178412683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileUsyXJ4"
+1623178413136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileUsyXJ4\\search.json.mozlz4", (void 0)))
+1623178416091	Marionette	INFO	Listening on port 51359
+1623178416423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623178453949	Marionette	INFO	Stopped listening on port 51359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623178468169	geckodriver	INFO	Listening on 127.0.0.1:61024
+1623178471217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileeMVLyl"
+1623178471659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileeMVLyl\\search.json.mozlz4", (void 0)))
+1623178474787	Marionette	INFO	Listening on port 53476
+1623178474936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1623178523916	Marionette	INFO	Stopped listening on port 53476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623178964591	geckodriver	INFO	Listening on 127.0.0.1:63874
+1623178967684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilej7zYXD"
+1623178968154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilej7zYXD\\search.json.mozlz4", (void 0)))
+1623178971398	Marionette	INFO	Listening on port 61455
+1623178971932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1623179187518	Marionette	INFO	Stopped listening on port 61455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileBbNBfQ"
+1623179108133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileBbNBfQ\\search.json.mozlz4", (void 0)))
+1623179111474	Marionette	INFO	Listening on port 60571
+1623179111832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623179150961	Marionette	INFO	Stopped listening on port 60571
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623179191097	geckodriver	INFO	Listening on 127.0.0.1:49726
+1623179194172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile04aCpx"
+1623179194631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile04aCpx\\search.json.mozlz4", (void 0)))
+1623179197931	Marionette	INFO	Listening on port 49734
+1623179198407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623179249834	Marionette	INFO	Stopped listening on port 49734
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623180677106	geckodriver	INFO	Listening on 127.0.0.1:59167
+1623180680212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile7w0KAR"
+1623180680685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofile7w0KAR\\search.json.mozlz4", (void 0)))
+1623180683717	Marionette	INFO	Listening on port 59175
+1623180683926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1623180783374	Marionette	INFO	Stopped listening on port 59175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623180786846	geckodriver	INFO	Listening on 127.0.0.1:50589
+1623180789932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilerT9UQI"
+1623180790393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilerT9UQI\\search.json.mozlz4", (void 0)))
+1623180793429	Marionette	INFO	Listening on port 50597
+1623180793653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623180951257	Marionette	INFO	Stopped listening on port 50597
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623182648967	geckodriver	INFO	Listening on 127.0.0.1:62271
+1623182652051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilec7Ohb0"
+1623182652535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilec7Ohb0\\search.json.mozlz4", (void 0)))
+1623182655641	Marionette	INFO	Listening on port 65030
+1623182655790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623183212639	Marionette	INFO	Stopped listening on port 65030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilemwEksC"
+1623182875418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilemwEksC\\search.json.mozlz4", (void 0)))
+1623182878115	Marionette	INFO	Listening on port 52185
+1623182878232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623183211645	Marionette	INFO	Stopped listening on port 52185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileBnoA8I"
+1623183035784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileBnoA8I\\search.json.mozlz4", (void 0)))
+1623183038866	Marionette	INFO	Listening on port 50348
+1623183039102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623183210733	Marionette	INFO	Stopped listening on port 50348
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623183325886	geckodriver	INFO	Listening on 127.0.0.1:62182
+1623183328957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilejhRkKy"
+1623183329434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilejhRkKy\\search.json.mozlz4", (void 0)))
+1623183332560	Marionette	INFO	Listening on port 55583
+1623183332661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1623183526555	Marionette	INFO	Stopped listening on port 55581623183527694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileTr4HXZ"
+1623183528140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileTr4HXZ\\search.json.mozlz4", (void 0)))
+1623183531122	Marionette	INFO	Listening on port 62103
+1623183531382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623183877112	Marionette	INFO	Stopped listening on port 62103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623184021381	geckodriver	INFO	Listening on 127.0.0.1:49429
+1623184024438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileuB0qN0"
+1623184024906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileuB0qN0\\search.json.mozlz4", (void 0)))
+1623184028107	Marionette	INFO	Listening on port 60630
+1623184028145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623184583930	Marionette	INFO	Stopped listening on port 60630
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilezzHtMT"
+1623184220329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilezzHtMT\\search.json.mozlz4", (void 0)))
+1623184223158	Marionette	INFO	Listening on port 57856
+1623184223603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623184582301	Marionette	INFO	Stopped listening on port 57856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofiledLDlbm"
+1623184413580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofiledLDlbm\\search.json.mozlz4", (void 0)))
+1623184416667	Marionette	INFO	Listening on port 56378
+1623184416939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/24649a1ca9fd.js, line 45: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2a5f4f0f5789.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1623184576451	Marionette	INFO	Stopped listening on port 56378
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

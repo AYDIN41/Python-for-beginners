@@ -1,0 +1,5 @@
+print("Ne kadar yakıt tükettiniz?")
+km = int(input("Lutfen kaç km kateddiğinizi yazınız: "))
+yakit = float(input("Arabanızın 1 km de ne kadar yakıyor: "))
+fiyat = float(km*yakit)
+print("Aracınız bu kadar fiyat olarak yakmıştır: {} Tl  ".format(fiyat))

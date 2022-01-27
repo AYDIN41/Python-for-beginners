@@ -1,0 +1,5 @@
+print("Hipotenüs'ü bulma programı")
+kenar1 = float(input("Bir kenarın degerini giriniz: "))
+kenar2 = float(input("Diğer kenarın degerini giriniz: "))
+dikKenar = (kenar1 ** 2) + (kenar2 ** 2)
+print("Girdiginiz ilk kenar {} ikinci kenar {} hipotenüs ise {}".format(kenar1,kenar2,dikKenar**0.5))
